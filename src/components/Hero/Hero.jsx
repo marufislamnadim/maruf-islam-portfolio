@@ -6,7 +6,7 @@ const Hero = () => {
     return (
         <div>
             <div className="">
-                <div className="hero min-h-screen bg-base-200">
+                <div className="hero min-h-[320px] lg:min-h-[500px] bg-base-200">
                     <div className="hero-content text-center">
                         <div className="max-w-lg">
                             <h1 className="text-lg font-semibold">
